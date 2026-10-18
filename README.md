@@ -1,6 +1,6 @@
 ### 🚀 Senior Full Stack & AI Engineer | React, Angular, Vue, Python, Node.js | Generative AI, LLMs, RAG & Cloud Architecture
 
-Hi there! 👋 I'm a Senior Full Stack & AI Engineer with 10+ years of experience building scalable, enterprise-grade web applications, cloud-native platforms, and intelligent AI-powered solutions. I specialize in React, Angular, Vue.js, Python (Django, Flask, FastAPI), and Node.js (Express.js, NestJS), with expertise in Generative AI, large language models (LLMs), retrieval-augmented generation (RAG), AI agents, REST/GraphQL APIs, microservices, and third-party integrations.
+Hi there! 👋 I'm a Senior Full Stack & AI Engineer with 10+ years of experience building scalable, enterprise-grade web applications, cloud-native platforms, and intelligent AI-powered solutions. I specialize in React/Next.js, Angular, Vue.js, Node.js (Express.js, NestJS), and Python (Django, FastAPI, Flask), with expertise in Generative AI, large language models (LLMs), retrieval-augmented generation (RAG), AI agents, REST/GraphQL APIs, microservices, and third-party integrations.
 
 💡 Experience Snapshot</br>
 • Built and scaled enterprise platforms across fintech, e-commerce, healthcare, and SaaS.</br>
